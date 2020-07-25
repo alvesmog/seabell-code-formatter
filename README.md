@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![Project Screen Shot][project-screenshot]]
+![Project Screen Shot][project-screenshot]
 
 Sea-bell is a code formatter built with vanilla JavaScript and plain HTML5.
 
