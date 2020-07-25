@@ -101,7 +101,8 @@
         font-weight: 700;
       }
     </style>
-    <script src="./formatter.js"></script>
+    <script src="config.js"></script>
+    <script src="formatter.js"></script>
   </head>
 
   <body>
@@ -147,7 +148,7 @@
           </div>
         </div>
         <div class="row justify-content-end p-3">
-          <button onclick="handleClick()" type="button" class="btn btn-primary">
+          <button type="button" id="formatButton" class="btn btn-primary">
             Format code
             <img src="/seabell-icon.png" style="width: 30px; height: auto; border-radius: 50%;">
           </button>
@@ -155,6 +156,7 @@
       </div>
     </div>
     <script>
+      document.querySelector("#formatButton").addEventListener("click", handleClick);
       function handleClick() {
         input = document.getElementById("rawCode").value;
         //console.log(input);
