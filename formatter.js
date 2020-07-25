@@ -1,6 +1,3 @@
-//If you don't include a configu file containing the functions, the application will not work
-import {searched_functions} from "./config"
-
 const parenthesis = ["(", ")"];
 const brackets = ["[", "]"];
 
@@ -27,7 +24,7 @@ function highlightBrackets(formattedCode) {
   return finalArr;
 }
 
-function format(input, targetElement) {
+const format = (input, targetElement) => {
   //console.log(input);
   let arr = input.split("");
   let currentSearch = "";
