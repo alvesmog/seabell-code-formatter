@@ -38,8 +38,7 @@ Want to contribute? Great! Any contributions you make are greatly appreciated. T
 
 License
 ----
-
-MIT
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -48,7 +47,7 @@ MIT
 [issues-shield]: https://img.shields.io/github/issues/alvesmog/seabell-code-formatter.svg?style=flat-square
 [issues-url]: https://github.com/alvesmog/seabell-code-formatter/issues
 [license-shield]: https://img.shields.io/github/license/alvesmog/seabell-code-formatter.svg?style=flat-square
-[license-url]: https://github.com/alvesmog/seabell-code-formatter/blob/master/LICENSE.txt
+[license-url]: https://github.com/alvesmog/seabell-code-formatter/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/guilherme-augusto-alves-1057b5b1/
-[project-screenshot]: images/seabell-screenshot-header
+[project-screenshot]: images/seabell-screenshot-header.png
